@@ -1,6 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap-icons/font/bootstrap-icons.css'
-import { List } from './List';
+//import { List } from './List';
 
 const App=()=>{
     return (
