@@ -5,6 +5,7 @@ import { List } from './List';
 const App=()=>{
     return (
         <>
+            <h1>Welcome to github hosting</h1>
             <List/>
         </>
     )
